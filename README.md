@@ -1,0 +1,2 @@
+# -Diverse-Dermatology-Images-DDI-A-Curated-Dataset-for-AI-Skin-Disease-Research-
+AI may aid in triaging skin diseases, but biases exist due to limited diverse datasets. The Diverse Dermatology Images (DDI) dataset, with 656 pathologically confirmed images (570 patients) from Stanford Clinics (2010–2020), includes Fitzpatrick skin types (FST) I-VI. FST I-II and V-VI images were matched by diagnosis, age, gender, and date.
